@@ -6,3 +6,6 @@ venv
 
 # Ignore SQLite database files
 *.sqlite3
+
+# Ignore target folder
+/target
